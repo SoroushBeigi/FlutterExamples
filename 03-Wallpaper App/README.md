@@ -1,16 +1,2 @@
-# wallpaper
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I used HTTP library and Unsplash API to load random fresh images each time I press the FAB. 
+There are options to set the image as wallpaper or lock screen. I used [this library](https://github.com/codenameakshay/async_wallpaper) to set the images as wallpapers.
