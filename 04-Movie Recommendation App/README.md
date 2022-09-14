@@ -1,16 +1,3 @@
-# movie
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It's a simple app, receives an age from the user and chooses a random movie from a list for their age range. 
+Each list has 3 movies and movies can be added using a custom class I have made. 
+The class has 2 attributes for the movie name and the image source.
