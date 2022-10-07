@@ -19,5 +19,3 @@ class Bloc extends Object with Validator{
   }
 
 }
-
-final bloc = Bloc();
